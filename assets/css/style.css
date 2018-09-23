@@ -1,0 +1,24 @@
+#buttons-appear-here, #target, img {
+    margin-bottom: 30px;
+}
+
+#buttons-appear-here {
+    margin-top: 30px;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.container {
+    background-image: linear-gradient(to bottom, skyblue , lightblue);
+  }
+
+h2 {
+    text-align: center;
+    color: whitesmoke
+}
+
+p {
+    color: whitesmoke;
+}
